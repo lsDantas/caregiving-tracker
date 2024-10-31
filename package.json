@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "csv-parse": "^5.5.3",
+    "fs": "^0.0.1-security",
+    "lodash": "^4.17.21",
+    "luxon": "^3.4.4"
+  },
+  "devDependencies": {
+    "eslint": "^8.55.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.29.1"
+  }
+}
